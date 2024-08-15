@@ -3,6 +3,7 @@
  
 Sigma Stike v 0.3 - Open Alpha.
 
+
 Thanks to everyone who responded to the call and was able to test the previous version of Sigma Strike.
 I have a new build for you and it is now available for everyone. You can access it via the Github: 
 
@@ -11,6 +12,7 @@ Play it this weekend and let me know what you think, what options are missing an
 Thanks u/Robocop613 who helped me in creating Discord server. You are welcome to join and test and discuss the project development there: https://discord.com/invite/ZTVxpH2Q 
 
 Any feedback is welcome, you can post it here or in Discord.
+
 
 Notes:
 
@@ -49,6 +51,7 @@ You can now change the livery of your and enemy mechs (the colors list is still 
 The following abilities were added: CASE, ENE, AMS, LRM/SRM/AC (no alternate munitions yet), OMNI
 
 A lot of under-the-hood improvements to code and UI.
+
 
 Known issues:
 
